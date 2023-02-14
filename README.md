@@ -21,3 +21,4 @@ Seguindo os 100 Dias Codando com o Front Beginners
 - Dia 19 -> Desafio Técnico - Jogo da Forca (Parte 1)
 - Dia 20 -> Desafio Técnico - Jogo da Forca (Parte 2)
 - Dia 21 -> Como usar useContext React Hook
+- Dia 22 -> Tudo que você precisa saber sobre Typescript
